@@ -1,2 +1,4 @@
-# basic_att_assembly_x86
-simplest code in AT&amp;T assembly for x86 processors
+# Assembly AT&T
+
+Beggining to program in assembly using AT&T(Linux) syntax for x86 processors
+
